@@ -1,7 +1,11 @@
 # invoice_crawler
 爬蟲練習:抓取財政部最新和上一期發票資料
 
-# How to use
+# 使用到的函式庫
+* requests
+* BeautifulSoup
+
+# 如何使用
 ```python
 python main.py
 ```
